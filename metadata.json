@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Deep Insights 1",
+  "description": "An intelligent document processing application that extracts text, generates multi-level summaries, and converts insights into audio using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
